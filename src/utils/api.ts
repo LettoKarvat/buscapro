@@ -5,7 +5,7 @@ import axios, { AxiosError, AxiosResponse } from "axios";
 // Instância global do Axios
 // ─────────────────────────────────────────────
 export const api = axios.create({
-  baseURL: "https://252e027a8884.ngrok-free.app",
+  baseURL: "https://3cabf8de3ba8.ngrok-free.app ",
   headers: {
     "Content-Type": "application/json",
     /**
